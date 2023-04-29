@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/cv_arshaysheth.pdf" , title: "CV"} 
+  - {url: "https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/cv_arshaysheth.pdf", title: CV} 
   - {file: "research.md"}
   - {file: "teaching.md"} 
   - {file: "notes.md"}
