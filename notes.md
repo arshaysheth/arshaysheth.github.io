@@ -17,5 +17,9 @@ title: "Notes"
 - [The Commutativity theorem](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/talk5_updated_arshaysheth.pdf) and [Segre and Chern classes of vector bundles](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/intersectiontheory_talk7.pdf) for a learning seminar on intersection theory
 - [Simply Connected Lie Groups & the Exponential Map](warwick.ac.uk/fac/sci/maths/people/staff/sheth/liegroupsreport.pdf) and [Representations of sl(2,C)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf)
 - [Orientation & Integration](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk4_arshaysheth.pdf) and [Stokes' theoem](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk5_arshaysheth.pdf)
-- 
+
+
+# Undergraduate projects:
+- [The Kronecker-Weber Theorem](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/kw.pdf) 
+- [Fractal Geometry with Applications](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/kw.pdf)
 - 
