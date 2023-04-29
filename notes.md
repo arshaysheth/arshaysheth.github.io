@@ -18,9 +18,9 @@ title: "Notes"
 - [Orientation & Integration](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk4_arshaysheth.pdf) and [Stokes' theoem](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk5_arshaysheth.pdf)
 
 # Talks in other seminars:
-- [Introduction to the abc conjecture](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/abc_talk.pdf), Warwick Mathematics Society Talks. 
-- [Introduction to special values of zeta functions](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/zeta-4.pdf), Warwick Postgraduate Seminar.
-- [A Historical Introduction to Transcendental Number Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendental_postgrad.pdf), Warwick Postgraduate Seminar. 
+- [Introduction to the abc conjecture](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/abc_talk.pdf), WMS Talk Series, Warwick Mathematics Society, 28th February, 2023.  
+- [Introduction to special values of zeta functions](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/zeta-4.pdf), Warwick Postgraduate Seminar, 25th Janauray 2023. 
+- [A Historical Introduction to Transcendental Number Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendental_postgrad.pdf), Warwick Postgraduate Seminar, 2nd March 2022.
 
 
 
