@@ -10,7 +10,7 @@ title: "Notes"
 # Notes for talks in learning seminars:
 - [Etale cohomology and the Weil conjectures](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf) for a learning seminar on Hasse-Weil zeta functions
 - [A Historical Introduction to Transcendental Number Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendental_postgrad.pdf)
-- [Heegner Points] (https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/heegnerpoints.pdf) for a learning seminar on CM and RM theory.
+- [Heegner Points](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/heegnerpoints.pdf) for a learning seminar on CM and RM theory.
 - [The Absolute Galois Group of C(t)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/absolutegaloisgroup_.pdf) for a learning seminar on Galois groups and Fundamental groups
 - [Transformation formulae and Theta Relations](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/thetarelations_talk7_arshaysheth.pdf) for a learning seminar on complex abelian varieties, theta functions and moduli spaces
 - [The Atiyah-Janich Theorem](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/report_talk12_arshaysheth.pdf) for a learning seminar on Topological K-theory
