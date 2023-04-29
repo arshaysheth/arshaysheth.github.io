@@ -1,6 +1,6 @@
 title: "Arshay Sheth"
 author: "Arshay Sheth"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "University of Warwick"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,9 +19,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md"}
   - {file: "teaching.md"} 
   - {file: "notes.md"}
+  - {file: "contact.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "arshay.sheth@warwick.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
