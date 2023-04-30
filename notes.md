@@ -18,7 +18,7 @@ title: "Notes"
 - *The Atiyah-Janich Theorem*[(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/report_talk12_arshaysheth.pdf), learning seminar on Topological K-theory, University of Regensburg, 5th July 2021.
 -  *Transformation formulae and Theta Relations* [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/thetarelations_talk7_arshaysheth.pdf) for a learning seminar on complex abelian varieties, theta functions and moduli spaces, University of Regensburg, June 2021
 - *The Commutativity theorem* [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/talk5_updated_arshaysheth.pdf), learning seminar on intersection theory, University of Regensburg, December 2020. 
-- *Segre and Chern classes of vector bundles* [(slides)] (https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/intersectiontheory_talk7.pdf) for a learning seminar on intersection theory, 12th January 2021. 
+- *Segre and Chern classes of vector bundles* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/intersectiontheory_talk7.pdf) for a learning seminar on intersection theory, 12th January 2021. 
 -  *Representations of sl(2,C)* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf), learning seminar on Lie theory, University of Regensburg, 13th January, 2021. 
 - *Simply Connected Lie Groups & the Exponential Map* [(notes)](warwick.ac.uk/fac/sci/maths/people/staff/sheth/liegroupsreport.pdf), learning seminar on Lie Theory, November 2020. 
 -  *Stokes' theoem*, [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk5_arshaysheth.pdf), learning seminar on de Rham cohomology, University of Regensburg, November 2020
