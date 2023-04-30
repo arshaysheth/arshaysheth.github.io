@@ -8,4 +8,4 @@ My field of research is number theory. I am especially interested in
 - Explicit Class Field Theory 
 
 # Publications
-- A statistical comparison of flood-related economic damage in Indian states with reflections on policy implications [(pdf)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/flood.pdf) [(published version)](https://www.sciencedirect.com/science/article/abs/pii/S2212420922000541?via%3Dihub) (joint with P. Bansal, J. Chuah, S. Das and R. Wasson), International Journal of Disaster-Risk Reduction, Volume 72, April 2022.
+- *A statistical comparison of flood-related economic damage in Indian states with reflections on policy implications* [(pdf)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/flood.pdf) [(published version)](https://www.sciencedirect.com/science/article/abs/pii/S2212420922000541?via%3Dihub) (joint with P. Bansal, J. Chuah, S. Das and R. Wasson), International Journal of Disaster-Risk Reduction, Volume 72, April 2022.
