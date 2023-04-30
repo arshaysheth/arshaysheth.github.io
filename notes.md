@@ -10,7 +10,7 @@ title: "Notes"
 # Talks in learning seminars
 - *Cohomological interpretation of Galois deformation rings*, online seminar on Deformations of Galois representations, 18th February 2023. 
 - *Buzzard's eigenvariety machinery*, Eigenvarieties learning seminar, University of Warwick, 9th February 2023. 
-- *Elliptic curves have no points of order 13*, Online seminar on Mazur's Torsion theorem, 30th December 2022. 
+- *Elliptic curves have no rational points of order 13*, Online seminar on Mazur's Torsion theorem, 30th December 2022. 
 - *Introduction to quaternion algebras*, learning seminar on Isogeny-based crytopgraphy, University of Warwick, 2nd November 2022. 
 - *Etale cohomology and the Weil conjectures* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf), learning seminar on Hasse-Weil zeta functions, 10th June, 2022.
 - *Heegner Points* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/heegnerpoints.pdf), learning seminar on CM and RM theory, 29th October 2021
