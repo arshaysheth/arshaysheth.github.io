@@ -7,4 +7,4 @@ title: "Teaching"
 - 21/22 Term 2: Teaching assistant for [MA257 Introduction to Number Theory](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year2/ma257/)
 - 21/22 Term 1: Teaching assitant  for [MA3A6 Algebraic Number Theory](https://warwick.ac.uk/fac/sci/maths/currentstudents/ughandbook/year3/ma3a6/)
 
-I was nominated for the 2023 [Warwick Awards for Teaching Excellence](https://warwick.ac.uk/fac/cross_fac/academic-development/wate/)
+I was nominated for the 2023 [Warwick Awards for Teaching Excellence](https://warwick.ac.uk/fac/cross_fac/academic-development/wate/). 
