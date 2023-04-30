@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Notes"
+title: "Talks & Notes"
 ---
 
 # Theses
-- Masters thesis: [The Brumer Stark Conjecture](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf), ALGANT program, August 2021.
-- Undergdraute thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf), National University of Singapore, May 2019. 
+- Masters thesis: [The Brumer Stark Conjecture](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf),  ALGANT program, August 2021.
+- Undergdraute thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf),  National University of Singapore, May 2019. 
 
 # Talks in learning seminars
 - *Cohomological interpretation of Galois deformation rings*, online seminar on Deformations of Galois representations, 18th February 2023. 
@@ -20,7 +20,7 @@ title: "Notes"
 - *The Commutativity theorem* [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/talk5_updated_arshaysheth.pdf), learning seminar on intersection theory, University of Regensburg, December 2020. 
 - *Segre and Chern classes of vector bundles* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/intersectiontheory_talk7.pdf), learning seminar on intersection theory, 12th January 2021. 
 -  *Representations of sl(2,C)* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf), learning seminar on Lie theory, University of Regensburg, 13th January, 2021. 
-- *Simply Connected Lie Groups & the Exponential Map* [(notes)](warwick.ac.uk/fac/sci/maths/people/staff/sheth/liegroupsreport.pdf), learning seminar on Lie Theory, November 2020. 
+- *Simply Connected Lie Groups & the Exponential Map* [(notes)](warwick.ac.uk/fac/sci/maths/people/staff/sheth/liegroupsreport.pdf), learning seminar on Lie Theory, University of Regensburg, November 2020. 
 -  *Stokes' theoem*, [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk5_arshaysheth.pdf), learning seminar on de Rham cohomology, University of Regensburg, 30th November 2020
 -  *Orientation & Integration*, [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk4_arshaysheth.pdf), learning seminar on de Rham cohomology, 23rd November 2020. 
 
