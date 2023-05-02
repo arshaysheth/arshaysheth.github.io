@@ -28,7 +28,7 @@ title: "Talks & Notes"
 - *Introduction to the abc conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/abctalk_wms.pdf), WMS Talk Series, Warwick Mathematics Society, 28th February, 2023.  
 - *Introduction to special values of zeta functions* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/zetatalk_postgrad.pdf), Warwick Postgraduate Seminar, 25th January 2023. 
 - *A Historical Introduction to Transcendental Number Theory*,[(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendental_postgrad.pdf), Warwick Postgraduate Seminar, 2nd March 2022.
--  *The Brumer-Stark Conjecture* [slides](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_talk.pdf), ALGANT Graduation ceremony, 15th July, 2021
+-  *The Brumer-Stark Conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_talk.pdf), ALGANT Graduation ceremony, 15th July, 2021
 
 
 
