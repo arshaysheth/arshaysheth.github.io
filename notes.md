@@ -5,14 +5,14 @@ title: "Talks & Notes"
 
 # Theses
 - Masters thesis: [The Brumer Stark Conjecture](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf),  ALGANT program, August 2021.
-- Undergdraute thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf),  National University of Singapore, May 2019. 
+- Undergdraute thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/lcft.pdf),  National University of Singapore, May 2019. 
 
 # Talks in learning seminars
 - *Cohomological interpretation of universal deformation rings*, online seminar on Deformations of Galois representations, 18th February 2023. 
 - *Buzzard's eigenvariety machinery*, Eigenvarieties learning seminar, University of Warwick, 9th February 2023. 
 - *Elliptic curves have no rational points of order 13*, online seminar on Mazur's Torsion theorem, 30th December 2022. 
 - *Introduction to quaternion algebras*, learning seminar on Isogeny-based crytopgraphy, University of Warwick, 2nd November 2022. 
-- *Etale cohomology and the Weil conjectures* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf), learning seminar on Hasse-Weil zeta functions, University of Warwick, 10th June, 2022.
+- *Etale cohomology and the Weil conjectures* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/etalecohomology.pdf), learning seminar on Hasse-Weil zeta functions, University of Warwick, 10th June, 2022.
 - *Heegner Points* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/heegnerpoints.pdf), learning seminar on CM and RM theory, University of Warwick, 29th October 2021
 - *The Absolute Galois Group of C(t)* [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/absolutegaloisgroup_.pdf), learning seminar on Galois groups and Fundamental groups, University of Regensburg, 12th July 2021.
 - *The Atiyah-Janich Theorem* [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/report_talk12_arshaysheth.pdf), learning seminar on Topological K-theory, University of Regensburg, 5th July 2021.
@@ -27,7 +27,7 @@ title: "Talks & Notes"
 # Talks in other seminars
 - *Introduction to the abc conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/abctalk_wms.pdf), WMS Talk Series, Warwick Mathematics Society, 28th February, 2023.  
 - *Introduction to special values of zeta functions* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/zetatalk_postgrad.pdf), Warwick Postgraduate Seminar, 25th January 2023. 
-- *A Historical Introduction to Transcendental Number Theory*,[(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendental_postgrad.pdf), Warwick Postgraduate Seminar, 2nd March 2022.
+- *A Historical Introduction to Transcendental Number Theory*,[(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendentalnt.pdf), Warwick Postgraduate Seminar, 2nd March 2022.
 -  *The Brumer-Stark Conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_talk.pdf), ALGANT Graduation ceremony, 15th July, 2021
 
 
