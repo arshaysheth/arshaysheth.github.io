@@ -10,6 +10,6 @@ title: "Teaching"
 I was nominated for the 2023 [Warwick Awards for Teaching Excellence](https://warwick.ac.uk/fac/cross_fac/academic-development/wate/). 
 
 
-Students supervised
-- Tom King, Warwick Undergraduate Research Support Scheme (URSS), summer 2023. Project Title: Galois groups and Fundamental groups. 
+#Students supervised
+- Tom King, Warwick Undergraduate Research Support Scheme (URSS), summer 2023. Project Title: *Galois groups and Fundamental groups*. 
   
