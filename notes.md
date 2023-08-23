@@ -8,7 +8,7 @@ title: "Talks & Notes"
 - Undergdraute thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/lcft.pdf),  National University of Singapore, May 2019. 
 
 # Talks in learning seminars
-- The Shioda--Tate formula, online seminar on elliptic curves over functions fields, 27th May 2023. 
+- *The Shioda--Tate formula*, online seminar on elliptic curves over functions fields, 27th May 2023. 
 - *Cohomological interpretation of universal deformation rings*, online seminar on Deformations of Galois representations, 18th February 2023. 
 - *Buzzard's eigenvariety machinery*, Eigenvarieties learning seminar, University of Warwick, 9th February 2023. 
 - *Elliptic curves have no rational points of order 13*, online seminar on Mazur's Torsion theorem, 30th December 2022. 
