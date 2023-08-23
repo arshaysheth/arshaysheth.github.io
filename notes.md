@@ -23,7 +23,7 @@ title: "Talks & Notes"
 -  *Representations of sl(2,C)* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/sl2.pdf), learning seminar on Lie theory, University of Regensburg, 13th January, 2021. 
 - *Simply Connected Lie Groups & the Exponential Map* [(notes)](warwick.ac.uk/fac/sci/maths/people/staff/sheth/liegroupsreport.pdf), learning seminar on Lie Theory, University of Regensburg, November 2020. 
 -  *Stokes' theoem*, [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk5_arshaysheth.pdf), learning seminar on de Rham cohomology, University of Regensburg, 30th November 2020
--  *Orientation & Integration*, [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk4_arshaysheth.pdf), learning seminar on de Rham cohomology, 23rd November 2020. 
+-  *Orientation & Integration* [(notes)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/derhamtalk4_arshaysheth.pdf), learning seminar on de Rham cohomology, 23rd November 2020. 
 
 # Talks in other seminars
 - *Introduction to the abc conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/abctalk_wms.pdf), WMS Talk Series, Warwick Mathematics Society, 28th February, 2023.  
