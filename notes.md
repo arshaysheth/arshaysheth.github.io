@@ -5,7 +5,7 @@ title: "Talks & Notes"
 
 # Theses
 - Masters thesis: [The Brumer Stark Conjecture](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_master_s_thesis.pdf),  ALGANT program, August 2021.
-- Undergdraute thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/lcft.pdf),  National University of Singapore, May 2019. 
+- Undergraduate thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/lcft.pdf),  National University of Singapore, May 2019. 
 
 # Talks in learning seminars
 - *The Shioda--Tate formula*, online seminar on elliptic curves over functions fields, 27th May 2023. 
