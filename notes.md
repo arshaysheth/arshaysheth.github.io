@@ -28,8 +28,8 @@ title: "Talks & Notes"
 # Talks in other seminars
 - *Introduction to the abc conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/abctalk_wms.pdf), WMS Talk Series, Warwick Mathematics Society, 28th February, 2023.  
 - *Introduction to special values of zeta functions* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/zetatalk_postgrad.pdf), Warwick Postgraduate Seminar, 25th January 2023.
-- p-adic variation of Euler systems, London Junior Number Theory seminar, Kings College London, 15th March, 2022. 
-- *A Historical Introduction to Transcendental Number Theory*,[(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendentalnt.pdf), Warwick Postgraduate Seminar, 2nd March 2022.
+- *p-adic variation of Euler systems*, London Junior Number Theory seminar, Kings College London, 15th March, 2022. 
+- *A Historical Introduction to Transcendental Number Theory*[(slides)], (https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendentalnt.pdf), Warwick Postgraduate Seminar, 2nd March 2022.
 -  *The Brumer-Stark Conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/algant_talk.pdf), ALGANT Graduation ceremony, 15th July, 2021
 
 
