@@ -8,6 +8,8 @@ title: "Talks & Notes"
 - Undergraduate thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/lcft.pdf),  National University of Singapore, May 2019. 
 
 # Talks in learning seminars
+- *Kolyvagin's derived classes*, Euler systems seminar (online), 22nd September 2023.
+- *Automorphic L-functions*, learning seminar on Tate's thesis, University of Warwick, 30th June, 2023. 
 - *The Shioda--Tate formula*, online seminar on elliptic curves over functions fields, 27th May 2023. 
 - *Cohomological interpretation of universal deformation rings*, online seminar on Deformations of Galois representations, 18th February 2023. 
 - *Buzzard's eigenvariety machinery*, Eigenvarieties learning seminar, University of Warwick, 9th February 2023. 
