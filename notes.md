@@ -13,7 +13,8 @@ title: "Talks & Notes"
 - *The Shioda--Tate formula*, online seminar on elliptic curves over functions fields, 27th May 2023. 
 - *Cohomological interpretation of universal deformation rings*, online seminar on Deformations of Galois representations, 18th February 2023. 
 - *Buzzard's eigenvariety machinery*, Eigenvarieties learning seminar, University of Warwick, 9th February 2023. 
-- *Elliptic curves have no rational points of order 13*, online seminar on Mazur's Torsion theorem, 30th December 2022. 
+- *Elliptic curves have no rational points of order 13*, online seminar on Mazur's Torsion theorem, 30th December 2022.
+- *Structure of Hecke algebras*, online seminar on Mazur's Torsion theorem, 9th November 2022.
 - *Introduction to quaternion algebras*, learning seminar on Isogeny-based crytopgraphy, University of Warwick, 2nd November 2022. 
 - *Etale cohomology and the Weil conjectures* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/etalecohomology.pdf), learning seminar on Hasse-Weil zeta functions, University of Warwick, 10th June, 2022.
 - *Heegner Points* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/heegnerpoints.pdf), learning seminar on CM and RM theory, University of Warwick, 29th October 2021
