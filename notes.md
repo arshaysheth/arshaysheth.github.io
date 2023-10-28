@@ -31,7 +31,7 @@ title: "Talks & Notes"
 # Talks in other seminars
 - *Introduction to special values of L-functions*,  2nd ALGANT Alumni Network Symposium, Bretagne, 3rd October, 2023.
 - *Introduction to explicit reciprocity laws*, Young Researchers in Algeraic Number Theory (YRANT-V), University of Cambridge, 6th September 2023. 
-- *Introduction to the abc conjecture* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/abctalk_wms.pdf), WMS Talk Series, Warwick Mathematics Society, 28th February, 2023.  
+- *Introduction to the abc conjecture*, WMS Talk Series, Warwick Mathematics Society, 28th February, 2023.  
 - *Introduction to special values of zeta functions* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/zetatalk_postgrad.pdf), Warwick Postgraduate Seminar, 25th January 2023.
 - *p-adic variation of Euler systems*, London Junior Number Theory seminar, Kings College London, 15th March, 2022. 
 - *A Historical Introduction to Transcendental Number Theory* [(slides)](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/transcendentalnt.pdf), Warwick Postgraduate Seminar, 2nd March 2022.
