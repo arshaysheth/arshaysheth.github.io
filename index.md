@@ -6,7 +6,7 @@ I am a third year PhD student working in number theory at the [University of War
 - Euler systems and special values of L-functions.
 - Explicit class field theory.
 
-<img src="https:// " width="100" height="100">
+<img src="https://assets/websitephoto.jpeg " width="300" height="300">
 
 
 # About me
