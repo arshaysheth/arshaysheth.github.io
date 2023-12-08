@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md"} 
   - {file: "notes.md"}
   - {file: "seminars.md"}
+  - {file: "outreach.md"} 
   - {file: "contact.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
