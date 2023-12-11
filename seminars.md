@@ -3,7 +3,7 @@ layout: page
 title: "Seminars" 
 ---
 
-# Seminars organized 
+
 
 - [Learning seminar on Euler systems](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/euler/): I organized an international online learning seminar on Euler systems in summer 2023. Partipants of
 the seminar included PhD students and post-docs from more than eleven universities all across the world. 
