@@ -14,7 +14,6 @@ I was nominated for [Warwick Awards for Teaching Excellence](https://warwick.ac.
 
 
 # Students supervised
-- 
 - Tom King, Warwick Undergraduate Research Support Scheme (URSS), summer 2023.
   Project Title: *Hints of Grothendieck's Galois Theory*. 
   
