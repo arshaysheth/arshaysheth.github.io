@@ -8,6 +8,8 @@ title: "Talks & Notes"
 - Undergraduate thesis: [Local Class Field Theory](https://warwick.ac.uk/fac/sci/maths/people/staff/sheth/lcft.pdf),  National University of Singapore, May 2019. 
 
 # Talks in learning seminars
+- *Distribution of Frobenius traces*, learning seminar on Murmurations of Arithmetic L-functions, University of Warwick, 2nd February 2024.
+-  *Polarizations and the dual abelian variety*, learning seminar on Abelian Varieties, University of Warwick, 14th November 2023. 
 - *Kolyvagin's derived classes*, Euler systems seminar (online), 22nd September 2023.
 - *Automorphic L-functions*, learning seminar on Tate's thesis, University of Warwick, 30th June, 2023. 
 - *The Shioda--Tate formula*, online seminar on elliptic curves over functions fields, 27th May 2023. 
