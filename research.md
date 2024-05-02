@@ -4,7 +4,6 @@ title: "Research"
 ---
 
 # Preprints 
-- *Euler Products at the Centre and Applications to Chebyshev's bias* (2024)
 - *Control Theorems for Hilbert Modular Varieties* (2024), submitted for publication. [[arXiv]](https://arxiv.org/abs/2403.04738)
 - *Euler Product Asymptotics for L-functions of Elliptic Curves* (2023), submitted for publication.  [[arXiv]](https://arxiv.org/abs/2312.05236)
 
