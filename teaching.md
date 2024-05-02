@@ -16,7 +16,8 @@ I was nominated for the [Warwick Awards for Teaching Excellence](https://warwick
 # Students supervised
 - Tom King, Warwick Undergraduate Research Support Scheme (URSS), summer 2023.
   Project Title: *Hints of Grothendieck's Galois Theory*.
+
   As part of the online [Twoples program](https://sites.google.com/view/twoples/home) (an international online directed program for undergraduates in mathematics), I supervised the following students:
-  - Carla Ruivo, University of Coimbra, Spring 2024. Project title: * Class field theory via primes of the form x^2+ny^2*. 
+  - Carla Ruivo, University of Coimbra, Spring 2024. Project title: *Class field theory via primes of the form x^2+ny^2*. 
   - Kiet Nguyen, University of Arizona, Fall 2023. Project title: *A mathematical tour of cryptography*.  
   
